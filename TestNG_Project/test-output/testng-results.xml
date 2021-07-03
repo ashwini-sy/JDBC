@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3985" started-at="2021-06-26T13:02:16 UTC" finished-at="2021-06-26T13:02:20 UTC">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3985" started-at="2021-06-26T13:02:16 UTC" finished-at="2021-06-26T13:02:20 UTC">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:test.LoginTest@1b68ddbd]" name="Login" is-config="true" duration-ms="2412" started-at="2021-06-26T13:02:16 UTC" finished-at="2021-06-26T13:02:18 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:test.LoginTest@1b68ddbd]" name="logintest" duration-ms="1217" started-at="2021-06-26T13:02:18 UTC" finished-at="2021-06-26T13:02:19 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.LoginTest@1b68ddbd]" name="teardown" is-config="true" duration-ms="303" started-at="2021-06-26T13:02:19 UTC" finished-at="2021-06-26T13:02:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

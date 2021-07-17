@@ -3732,3 +3732,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-07-17 03:22:26.893
 !MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.jface.text 2 0 2021-07-17 04:34:56.526
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.testng.eclipse 4 0 2021-07-17 04:34:57.433
+!MESSAGE <enabledWhen> element is required. Disabling org.testng.eclipse.codemining.testngProvider
